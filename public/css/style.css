@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(32, 94, 68);
+    color: aliceblue;
+  }
+
+.navboja{
+background: rgb(60, 57, 61);
+}
+
+.putovanjeBoja{
+  background: rgb(60, 57, 61);
+  padding: 25px;
+  border-radius: 30px;
+}
+
+.logo{
+  position: absolute;
+  left: 50px;
+}
+
+.crno{
+color: rgb(60, 57, 61);
+}
